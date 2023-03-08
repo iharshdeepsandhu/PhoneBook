@@ -1,0 +1,49 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Phone Book (Java)/*
+!/Phone Book (Java)/task/
+/Phone Book (Java)/task/*
+!/Phone Book (Java)/task/src/
+!/Phone Book (Java)/task/build.gradle
+!/Phone Book (Java)/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Floating-point types/Exponential expression/out/
+/Topics/Floating-point types/Exponential expression/out/production/classes/
+/Topics/Instant/The Instant to a long/out/
+/Topics/Instant/The Instant to a long/out/production/classes/
+/Topics/LocalDate/2 weeks after/out/
+/Topics/LocalDate/2 weeks after/out/production/classes/
+/Topics/LocalDate/Print dates of a year with an offset/out/
+/Topics/LocalDate/Print dates of a year with an offset/out/production/classes/
+/Topics/LocalDate/The first day of a month or not/out/
+/Topics/LocalDate/The first day of a month or not/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Subtracting hours and adding minutes/out/
+/Topics/LocalDateTime/Subtracting hours and adding minutes/out/production/classes/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Recursion/K-combination/out/
+/Topics/Recursion/K-combination/out/production/classes/
+/Topics/Recursion/N-th power/out/
+/Topics/Recursion/N-th power/out/production/classes/
